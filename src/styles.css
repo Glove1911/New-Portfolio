@@ -9,7 +9,10 @@
 }
 
 .App {
-    height: 100vh !important
+    height: 100vh !important;
+    /* position:fixed; */
+    overflow: scroll !important;
+  
 }
     /* html {
         margin: 0px;
