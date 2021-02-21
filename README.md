@@ -8,7 +8,7 @@
 - [Technologies](#technologies)
 - [Questions](#questions)
 
-<img src="https://github.com/Glove1911/React-Portfolio/blob/main/src/screenshot1.jpeg">
+<img src="./src/screenshot1.jpeg">
 
  ## Description
 My updated portfolio built with React.js, Node.js, and Bootstrap.  
